@@ -55,7 +55,7 @@ A joystick is required to control the robot. If you don't have a joystick, you n
 
 ## Acknowledgements
 
-This project is built upon [AME (Adaptive Motion Engine)](https://sites.google.com/leggedrobotics.com/ame-2), a remarkable framework for legged robot locomotion. AME demonstrates an elegant and highly effective approach to robust locomotion control, achieving impressive agility and adaptability across diverse terrains. Huge thanks to the AME team for their outstanding work and open-source contribution!
+This project is built upon [AME (Attention-based Neural Map Encoding)](https://sites.google.com/leggedrobotics.com/ame-2), from the paper *Agile and Generalized Legged Locomotion via Attention-Based Neural Map Encoding*. AME demonstrates an elegant and highly effective approach to robust locomotion control, achieving impressive agility and adaptability across diverse terrains. Huge thanks to the AME team for their outstanding work and open-source contribution!
 
 - Project page: https://sites.google.com/leggedrobotics.com/ame-2
 - Source code: https://github.com/SII-FUSC/AME_Locomotion
